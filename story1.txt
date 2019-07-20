@@ -1,0 +1,3 @@
+git init - initializing git repository 
+git branches - lists all the branches under the repository
+git staus - shows current status of the file 
